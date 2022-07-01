@@ -26,7 +26,7 @@ const chalk = require("chalk")
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = false //auto reading inb gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -42,25 +42,25 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ownername = "vanitas"
+global.ytname = "ig: mohammed_xf16" //ur yt chanel name
+global.socialm = "GitHub: vanitasxd" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.botname = "vanitas bot" //ur bot name
+global.websitex = "https://Instagram.com/mohammed_xf16" //ur website
+global.vidmenu = { url: 'https:/https://a.uguu.se/MQfjckMc.mp4' } //gif and video menu
+global.packname = "vanitas bot\n\n\n\n\n\n\n〽️ "
+global.author = "〽️🤍"
+global.themeemoji = "〽️"
+global.reactmoji = "🙂"
 global.ownertag = ['ur number'] //ur owner tag
 global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.watermark = "vanitas Bot Inc." //ur watermark
+global.botscript = "https://Instagram.com/mohammed_xf16"
+global.linkz1 = "https://chat.whatsapp.com/EbsItoeb70pDEENFkJvdKM"
+global.linkz2 = "https://chat.whatsapp.com/EbsItoeb70pDEENFkJvdKM"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -110,7 +110,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 30,
     monayawal: 1000
 }
    global.rpg = {
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '76ceabffb9',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
